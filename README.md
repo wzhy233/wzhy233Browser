@@ -12,3 +12,5 @@
  wzhy233Browser developed with .net8.0,A new generation of advanced browsers
  
  Equipment Requirements : Requires win10 and above , .net 8.0 desktop or later installed
+
+ Download .net8.0 from Microsoft's official website : https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0

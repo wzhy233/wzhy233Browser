@@ -1,7 +1,6 @@
 # wzhy233Browser
 
 
-## Powered by wzhy233
 
  Follow me on BiliBili  ->  https://space.bilibili.com/3537123286190803
  
